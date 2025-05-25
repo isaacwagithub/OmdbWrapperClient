@@ -1,0 +1,14 @@
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\bin\Debug\net9.0\OmdbWrapperClient.exe
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\bin\Debug\net9.0\OmdbWrapperClient.deps.json
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\bin\Debug\net9.0\OmdbWrapperClient.runtimeconfig.json
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\bin\Debug\net9.0\OmdbWrapperClient.dll
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\bin\Debug\net9.0\OmdbWrapperClient.pdb
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\OmdbWrapperClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\OmdbWrapperClient.AssemblyInfoInputs.cache
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\OmdbWrapperClient.AssemblyInfo.cs
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\OmdbWrapperClient.csproj.CoreCompileInputs.cache
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\OmdbWrapperClient.dll
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\refint\OmdbWrapperClient.dll
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\OmdbWrapperClient.pdb
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\OmdbWrapperClient.genruntimeconfig.cache
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\ref\OmdbWrapperClient.dll
