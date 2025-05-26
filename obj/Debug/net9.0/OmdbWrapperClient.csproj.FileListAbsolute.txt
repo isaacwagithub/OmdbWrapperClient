@@ -12,3 +12,4 @@ C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net
 C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\OmdbWrapperClient.pdb
 C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\OmdbWrapperClient.genruntimeconfig.cache
 C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\ref\OmdbWrapperClient.dll
+C:\Users\malwa\OneDrive\Documents\Personal Tests\OmdbWrapperClient\obj\Debug\net9.0\OmdbWrapperClient.sourcelink.json
